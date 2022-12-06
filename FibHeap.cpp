@@ -5,7 +5,7 @@
     Phase 3
 */
 #include <cmath>
-//#include "CircularDynamicArray.cpp"
+#include "CircularDynamicArray.cpp"
 
 template <class keytype>
 
